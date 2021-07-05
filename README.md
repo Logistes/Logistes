@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Logistes
-- 👀 I’m interested in ...
+<!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently learning Swift and SwiftUI
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
 
 <!---
